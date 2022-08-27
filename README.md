@@ -1,16 +1,12 @@
 # test_mobile_dev
 
-A new Flutter project.
+Versi Flutter : 3.0.5
+Versi Dart : 2.17.6
 
-## Getting Started
+State Management: GetX + GetX Architecture
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Note :
+Data yang baru ditambahkan tidak dapat diedit dan didelete, karena data yang baru ditambahkan tersebut tidak masuk ke database, sehingga akan mengalami error apabila melakukan edit ataupun delete..
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Data yang dapat diedit dan didelete hanya data yang sudah ada sebelumnya (bukan data yang baru ditambahkan).
